@@ -1,2 +1,2 @@
 # table-tennis-automation
-reminds no of bats and balls being used to know the are usage
+Reminds no of bats and balls being used to know the TT court usage.
